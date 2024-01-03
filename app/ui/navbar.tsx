@@ -6,6 +6,8 @@ export default function NavBar() {
     <nav className="bg-amber-100 font-semibold">
       <div className="max-w-6xl mx-auto">
         <div className="flex justify-between">
+
+          {/* logo */}
           <div>
             <Link className="flex items-center font-extrabold text-xl py-8 px-10" href="/">
               <svg className="w-15 h-10 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
@@ -14,12 +16,30 @@ export default function NavBar() {
               <span>Recipe Genius</span>
             </Link>
           </div>
+
+          {/* nav-items */}
           <div className="flex items-center space-x-3">
-            <Link className="py-4 px-5 hover:bg-amber-200 rounded-lg" href="/generate">Generate</Link>
-            <Link className="py-4 px-5 hover:bg-amber-200 rounded-lg" href="/recipe">Recipes</Link>
-            <Link className="py-4 px-5 hover:bg-amber-200 rounded-lg" href="/login">Login</Link>
+            <Link className="py-4 px-3 hover:bg-amber-200 rounded-lg" href="/generate">Generate</Link>
+            <Link className="py-4 px-3 hover:bg-amber-200 rounded-lg" href="/recipe">Recipes</Link>
+            <Link className="py-4 px-3 hover:bg-amber-200 rounded-lg" href="/login">Login</Link>
           </div>
+
+          {/* mobile-nav-hamburger */}
+          {/* <div className="md:hidden flex items-center">
+            <button>
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="w-6 h-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+              </svg>
+            </button>
+          </div> */}
         </div>
+
+        {/* mobile-nav-menu-items */}
+        {/* <div hidden>
+          <Link className="block py-2 px-4 text-sm hover:bg-amber-200" href="/generate">Generate</Link>
+          <Link className="block py-2 px-4 text-sm hover:bg-amber-200" href="/recipe">Recipes</Link>
+          <Link className="block py-2 px-4 text-sm hover:bg-amber-200" href="/login">Login</Link>
+        </div> */}
       </div>
     </nav>
   );
