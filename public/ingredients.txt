@@ -1,0 +1,93 @@
+Almonds,Vegan
+Apples,Vegan
+Avocado,Vegan
+Bananas,Vegan
+Barley,Vegan
+Beans (Black),Vegan
+Beans (Kidney),Vegan
+Bell Peppers,Vegan
+Blueberries,Vegan
+Broccoli,Vegan
+Cabbage,Vegan
+Cauliflower,Vegan
+Cherries,Vegan
+Chia Seeds,Vegan
+Coconut,Vegan
+Corn,Vegan
+Cucumbers,Vegan
+Dates,Vegan
+Eggplant,Vegan
+Flaxseeds,Vegan
+Garlic,Vegan
+Grapes,Vegan
+Kale,Vegan
+Lentils,Vegan
+Mango,Vegan
+Mushrooms,Vegan
+Oats,Vegan
+Olives,Vegan
+Onions,Vegan
+Oranges,Vegan
+Papaya,Vegan
+Peanuts,Vegan
+Pineapple,Vegan
+Pumpkin,Vegan
+Quinoa,Vegan
+Rice,Vegan
+Seitan,Vegan
+Sesame Seeds,Vegan
+Spinach,Vegan
+Strawberries,Vegan
+Sweet Potatoes,Vegan
+Tempeh,Vegan
+Tofu,Vegan
+Tomatoes,Vegan
+Walnuts,Vegan
+Watermelon,Vegan
+Zucchini,Vegan
+Beef,Non-Vegan
+Chicken,Non-Vegan
+Eggs,Non-Vegan
+Fish,Non-Vegan
+Lamb,Non-Vegan
+Milk,Non-Vegan
+Pork,Non-Vegan
+Shrimp,Non-Vegan
+Turkey,Non-Vegan
+Butter, Vegetarian
+Cheese, Vegetarian
+Eggs (free-range), Vegetarian
+Greek Yogurt, Vegetarian
+Honey (some), Vegetarian
+Milk (vegetarian), Vegetarian
+Yogurt (some), Vegetarian
+Basil, Vegetarian
+Cinnamon, Vegetarian
+Cottage Cheese, Vegetarian
+Cumin, Vegetarian
+Dill, Vegetarian
+Feta Cheese, Vegetarian
+Garbanzo Beans, Vegetarian
+Hummus, Vegetarian
+Lima Beans, Vegetarian
+Olive Oil, Vegetarian
+Parsley, Vegetarian
+Pasta, Vegetarian
+Pecans, Vegetarian
+Pita Bread, Vegetarian
+Pumpkin Seeds, Vegetarian
+Quorn, Vegetarian
+Rosemary, Vegetarian
+Soy Milk, Vegetarian
+Sunflower Seeds, Vegetarian
+Tahini, Vegetarian
+Thyme, Vegetarian
+Tortillas, Vegetarian
+Truffle Oil, Vegetarian
+Whole Wheat Bread, Vegetarian
+Yogurt, Vegetarian
+Zucchini, Vegetarian
+Beef Broth (vegetarian), Vegetarian
+Chicken Broth (vegetarian), Vegetarian
+Gelatin (vegetarian), Vegetarian
+Marshmallows (vegetarian), Vegetarian

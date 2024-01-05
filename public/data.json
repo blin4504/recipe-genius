@@ -1,0 +1,378 @@
+[
+  {
+    "food": "Almonds",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Apples",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Avocado",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Bananas",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Barley",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Beans (Black)",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Beans (Kidney)",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Bell Peppers",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Blueberries",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Broccoli",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Cabbage",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Cauliflower",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Cherries",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Chia Seeds",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Coconut",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Corn",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Cucumbers",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Dates",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Eggplant",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Flaxseeds",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Garlic",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Grapes",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Kale",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Lentils",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Mango",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Mushrooms",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Oats",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Olives",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Onions",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Oranges",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Papaya",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Peanuts",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Pineapple",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Pumpkin",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Quinoa",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Rice",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Seitan",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Sesame Seeds",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Spinach",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Strawberries",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Sweet Potatoes",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Tempeh",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Tofu",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Tomatoes",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Walnuts",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Watermelon",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Zucchini",
+    "diet": "Vegan"
+  },
+  {
+    "food": "Beef",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Chicken",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Eggs",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Fish",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Lamb",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Milk",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Pork",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Shrimp",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Turkey",
+    "diet": "Non-Vegan"
+  },
+  {
+    "food": "Butter",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Cheese",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Eggs (free-range)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Greek Yogurt",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Honey (some)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Milk (vegetarian)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Yogurt (some)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Basil",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Cinnamon",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Cottage Cheese",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Cumin",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Dill",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Feta Cheese",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Garbanzo Beans",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Hummus",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Lima Beans",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Olive Oil",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Parsley",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Pasta",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Pecans",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Pita Bread",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Pumpkin Seeds",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Quorn",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Rosemary",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Soy Milk",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Sunflower Seeds",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Tahini",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Thyme",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Tortillas",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Truffle Oil",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Whole Wheat Bread",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Yogurt",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Zucchini",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Beef Broth (vegetarian)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Chicken Broth (vegetarian)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Gelatin (vegetarian)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Marshmallows (vegetarian)",
+    "diet": "Vegetarian"
+  },
+  {
+    "food": "Lettuce",
+    "diet": "Vegan"
+  }
+]
